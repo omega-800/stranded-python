@@ -1,0 +1,41 @@
+you're stranded on an island
+options
+	walk somewhere (nwse)
+	walk one block (nwse)
+	show available commands
+	show inventory
+	sleep
+	work out
+	swim
+	look
+	hit
+	use item
+	give item
+	take item
+	build item
+	make fire
+	show stats
+	show craftable items
+	show discovered items
+	show map	
+items
+	rock
+	stick
+	sand
+	bug
+	meat
+	leaf
+	iron
+	torch
+	map
+	coal
+stats
+	health
+	stamina
+	hunger
+	thirst
+	exhaustment
+
+map
+	map is 16x16 blocks
+	block is 3x3
